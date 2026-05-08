@@ -14,7 +14,7 @@ A matéria de laboratório de Programaçao é o coração da formação de um de
 ## Tabela de contúdos
 | Aula | Tópico | Status |
 | :--- | :--- | :--- |
-| 01 | Introdução ao ambiente de terminal | Concluído 
+| 01 | Introdução ao ambiente de terminal | Concluído |
 | 02 | Tipos de Dados e variáveis | Em progresso |
-| 03 | Estruturas de repetição | | Agendado |
+| 03 | Estruturas de repetição |  Agendado |
 ---
